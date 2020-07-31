@@ -21,6 +21,8 @@ This Project has created using HTML, CSS, Bootstrap, JS, NodeJS, Express and Mon
  
  * User can also comment on any campground after login.
  
+ * User can edit/delete own added campgrounds/comments. 
+ 
  * User can also see recently uploaded campground.
  
  * Flash messages are responding to users interacting with the app.
