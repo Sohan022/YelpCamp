@@ -10,7 +10,7 @@
 
 [See more images](https://github.com/Sohan022/YelpCamp/blob/master/Demo)
 ```
-It is a Website which show campgrounds all over the world.
+It is a website which shows beautiful campgrounds all over the world.
 
 This Project has created using HTML, CSS, Bootstrap, JS, NodeJS, Express and MongoDB.
 ```
