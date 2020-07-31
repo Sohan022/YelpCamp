@@ -1,12 +1,12 @@
 # YelpCamp
 
-![Landing Page](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Landing_Page.png)
+<kbd>![Landing Page](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Landing_Page.png)</kbd>
 
-![index](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Index_Page.png)
+<kbd>![index](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Index_Page.png)</kbd>
 
-![showCampground](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Campground_Details.png)
+<kbd>![showCampground](https://github.com/Sohan022/YelpCamp/blob/master/Demo/Campground_Details.png)</kbd>
 
-![comments](https://github.com/Sohan022/YelpCamp/blob/master/Demo/comment_On_Campgrounds.png)
+<kbd> ![comments](https://github.com/Sohan022/YelpCamp/blob/master/Demo/comment_On_Campgrounds.png)</kbd>
 
 [See more images](https://github.com/Sohan022/YelpCamp/blob/master/Demo)
 ```
